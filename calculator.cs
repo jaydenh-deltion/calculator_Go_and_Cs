@@ -19,7 +19,7 @@ class Calculator
             }
         
 
-            double result = 0;
+            double result = 0;  
 
             switch (op)
             {
@@ -85,3 +85,4 @@ class Calculator
     }
 
 }
+// dotnet run calculator.cs
